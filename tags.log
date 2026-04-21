@@ -1,0 +1,38 @@
+[2026-04-21T16:46:41]   OK (8.5s) cat=apps→apps  conf=high  slugs=['pc-tools']  invalid=[]  reason=Программа является утилитой для мониторинга и управления системными па
+[2026-04-21T16:46:42] [6262/39053] LLM       gigaget  src=maombi.com/ru len=847
+[2026-04-21T16:46:46]   OK (4.3s) cat=apps→apps  conf=high  slugs=[]  invalid=[]  reason=Описание однозначно описывает менеджер загрузок — программу для оптими
+[2026-04-21T16:46:46] [6263/39053] LLM       gigalarm  src=maombi.com/ru len=867
+[2026-04-21T16:46:51]   OK (4.5s) cat=apps→apps  conf=high  slugs=['pc-tools']  invalid=[]  reason=Приложение GigAlarm — это утилита для планирования задач и напоминаний
+[2026-04-21T16:46:51] [6264/39053] LLM       gigatribe  src=maombi.com/ru len=756
+[2026-04-21T16:47:07]   OK (15.8s) cat=apps→apps  conf=high  slugs=['torrents']  invalid=[]  reason=GigaTribe — это P2P-клиент для обмена файлами, что напрямую соответств
+[2026-04-21T16:47:07] [6265/39053] LLM       gigatweaker  src=maombi.com/ru len=620
+[2026-04-21T16:47:14]   OK (7.1s) cat=apps→apps  conf=high  slugs=['pc-personalization']  invalid=[]  reason=Приложение предназначено для оптимизации и персонализации Windows 7, ч
+[2026-04-21T16:47:14] [6266/39053] LLM       gihosoft-free-video-cutter  src=maombi.com/ru len=675
+[2026-04-21T16:47:21]   OK (6.9s) cat=apps→apps  conf=high  slugs=['multimedia']  invalid=[]  reason=Описание однозначно указывает на приложение для редактирования видео (
+[2026-04-21T16:47:21] [6267/39053] LLM       gihosoft-free-video-joiner  src=maombi.com/ru len=654
+[2026-04-21T16:47:33]   OK (11.4s) cat=apps→apps  conf=high  slugs=['multimedia']  invalid=[]  reason=Описание программы чётко указывает на приложение для редактирования ви
+[2026-04-21T16:47:33] [6268/39053] LLM       gihosoft-tubeget-free-youtube-downloader  src=maombi.com/ru len=587
+[2026-04-21T16:47:38]   OK (5.5s) cat=apps→apps  conf=high  slugs=['multimedia']  invalid=[]  reason=Программа предназначена для скачивания видео и аудио с YouTube, что на
+[2026-04-21T16:47:39] [6269/39053] LLM       gijsco-lastfm-desktop-generator  src=maombi.com/ru len=570
+[2026-04-21T16:47:45]   OK (6.7s) cat=apps→apps  conf=high  slugs=['pc-personalization']  invalid=[]  reason=Приложение создаёт персонализированные обои для рабочего стола на осно
+[2026-04-21T16:47:45] [6270/39053] LLM       gilisoft-file-lock-pro  src=maombi.com/ru len=639
+[2026-04-21T16:47:56]   OK (10.3s) cat=apps→apps  conf=high  slugs=['security']  invalid=[]  reason=Программа предназначена для защиты файлов и папок путём скрытия, блоки
+[2026-04-21T16:47:56] [6271/39053] LLM       gilly-messenger  src=maombi.com/ru len=821
+[2026-04-21T16:48:07]   OK (11.1s) cat=apps→apps  conf=high  slugs=['social-networks']  invalid=[]  reason=Gilly Messenger — это приложение для обмена мгновенными сообщениями, к
+[2026-04-21T16:48:07] [6272/39053] LLM       gimel-studio  src=maombi.com/ru len=718
+[2026-04-21T16:48:14]   OK (6.5s) cat=apps→apps  conf=high  slugs=['photo-design']  invalid=[]  reason=Описание прямо указывает на приложение для редактирования изображений,
+[2026-04-21T16:48:14] [6273/39053] LLM       gimespace  src=maombi.com/ru len=824
+[2026-04-21T16:48:19]   OK (5.4s) cat=apps→apps  conf=high  slugs=['pc-tools']  invalid=[]  reason=GiMeSpace — это утилита для расширения рабочего стола Windows, которая
+[2026-04-21T16:48:19] [6274/39053] LLM       gimespace-cam-control  src=maombi.com/ru len=584
+[2026-04-21T16:48:24]   OK (5.0s) cat=apps→apps  conf=high  slugs=['pc-tools']  invalid=[]  reason=Программа является утилитой для управления компьютером с помощью жесто
+[2026-04-21T16:48:25] [6275/39053] LLM       gimespace-desktop-extender-3d  src=maombi.com/ru len=726
+[2026-04-21T16:48:32]   OK (7.8s) cat=apps→apps  conf=high  slugs=['pc-personalization']  invalid=[]  reason=Программа расширяет рабочий стол, организует окна и приложения, что на
+[2026-04-21T16:48:33] [6276/39053] LLM       gimespace-kvmshare-pro  src=maombi.com/ru len=769
+[2026-04-21T16:48:52]   OK (19.4s) cat=apps→apps  conf=high  slugs=['pc-tools']  invalid=[]  reason=Программа GiMeSpace KVMShare Pro является утилитой для управления неск
+[2026-04-21T16:48:52] [6277/39053] LLM       gimespace-touchspace-synth  src=maombi.com/ru len=71
+[2026-04-21T16:49:13]   OK (21.2s) cat=apps→apps  conf=high  WEB-RETRY  slugs=['multimedia']  invalid=[]  reason=Согласно описанию с [gimespace.com](https://www.gimespace.com/products
+[2026-04-21T16:49:14] [6278/39053] LLM       gimp-paint-studio  src=maombi.com/ru len=532
+[2026-04-21T16:49:18]   OK (4.6s) cat=apps→apps  conf=high  slugs=['photo-design']  invalid=[]  reason=Описание представляет собой набор инструментов (кисти, палитры, градие
+[2026-04-21T16:49:18] [6279/39053] LLM       gimp-portable  src=maombi.com/ru len=988
+[2026-04-21T16:49:35]   OK (16.7s) cat=apps→apps  conf=high  slugs=['photo-design']  invalid=[]  reason=Описание полностью посвящено GIMP — мощному бесплатному редактору изоб
+[2026-04-21T16:49:35] [6280/39053] LLM       gimphoto  src=maombi.com/ru len=584
